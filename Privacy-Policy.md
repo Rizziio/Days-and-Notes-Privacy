@@ -5,7 +5,7 @@
 **Developer:** Tarenix Technologies (legal entity: Tarenix LLC)
 **Contact:** info@tarenix.com
 **Effective date:** November 21, 2026
-**Policy URL:** https://www.tarenix.com/privacy-policy
+**Policy URL:** https://rizziio.github.io/Days-and-Notes-Privacy/
 
 ## 1. Summary
 
